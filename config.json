@@ -4,7 +4,7 @@
   "language": "en",
   "api": "http://65.109.80.126:20409/aryan",
   "baby": "https://nix-baby-apis.vercel.app",
-  "nickNameBot": "Goat-Bot-V2",
+  "nickNameBot": "✰🪽°𝙉𝙚𝙯𝙪𝙠𝙤 𝘾𝙝𝙖𝙣°🐰࿐",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
@@ -47,13 +47,13 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100001611578438"
+    "61578365162382"
   ],
   "developer": [
-    "100001611578438"
+    "61578365162382"
   ],
   "vipuser": [
-    "100001611578438"
+    "61578365162382"
   ], 
   "whiteListMode": {
     "enable": false,
